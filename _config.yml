@@ -24,3 +24,13 @@ markdown: redcarpet
 timezone: America/Chicago 
 
 exclude: [vendor]
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+  - scope:
+      path: "recipes"
+    values:
+      layout: "recipe"

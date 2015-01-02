@@ -1,14 +1,9 @@
 ---
-ingredients:
-  beef: 2lbs
-  carrots: 1
-  eggs: 2 dozen
 ---
-Hi
-
-
+<ul>
 {% for p in site.pages %}
-  {% for ingredient in p.ingredients %}
-    {{ ingredient[0] }}: {{ ingredient[1] }}
-  {% endfor %}
+  {% if p.layout == 'recipe' %}
+  <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+  {% endif %}
 {% endfor %}
+</ul>

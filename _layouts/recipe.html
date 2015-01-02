@@ -1,0 +1,21 @@
+---
+layout: default
+---
+      <div class="recipe">
+        <div class="meta">
+          {{ if page.gluten-free }}<p><strong><em>Gluten Free</em></strong></p>{{ endif }}
+          {{ if page.time }}<p><strong>Time to Prepare</strong>: {{ page.time }}</p> {{ endif }}
+          {{ if page.servings }}<p><strong>Number of Servings</strong>: {{ page.servings }}</p>{{ endif }}
+          {{ if page.ingredients }}
+            <p><strong>Ingredients</strong></p>
+            <ul>
+              {% for ingredient in page.ingredients %} 
+              <li>{{ingredient[0]}}: {{ingredient[1]}}</li>
+              {% endfor %}
+            </ul>
+          {{ endif }}
+        </div>
+        <div class="body">
+          {{ content }}
+        </div>
+      </div>
