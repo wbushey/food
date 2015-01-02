@@ -1,4 +1,5 @@
 ---
+title: Recipes
 ---
 <ul>
 {% for p in site.pages %}
