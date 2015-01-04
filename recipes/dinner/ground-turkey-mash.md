@@ -15,7 +15,7 @@ ingredients:
   oregano:
   black pepper: to taste
   chicken boullon: 1 tbsp
-  gluten-free soy sauce: 
+  soy sauce - gluten-free: 
 gluten-free: true
 time: 30 - 40 minutes
 servings: 2

@@ -2,8 +2,8 @@
 title: Taconite Tater Tot Hot Dish 
 ingredients:
   ground beef: 1 - 1.5 lbs
-  cream of mushroom soup: 1 can
-  create of chicken soup: 1 can
+  cream of mushroom soup - gluten-free: 1 can
+  cream of chicken soup - gluten-free: 1 can
   onions: 1 small
   garlic: 2 cloves
   pepper jack cheese: 8-12 oz shredded

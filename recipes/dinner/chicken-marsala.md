@@ -2,7 +2,7 @@
 title: Chicken Marsala 
 ingredients:
   corn starch: 1/2 cup - or gluten-free flour
-  gluten-free flour: 1/2 cup - or corn starch
+  flour - gluten-free: 1/2 cup - or corn starch
   essence: 1 tbsp
   chicken breasts: 2
   olive oil: 1 tbsp
