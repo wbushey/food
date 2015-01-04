@@ -11,7 +11,7 @@ ingredients:
    tomatoe: 3
    cumin powder: 2 teaspoons
    chili powder: 3 tablespoons
-   black powder: 1.5 teaspoons
+   black pepper: 1.5 teaspoons
    salt: 2 teaspoons
    water: 2 cups
 gluten-free: true

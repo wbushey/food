@@ -7,7 +7,7 @@ ingredients:
   vegetable oil: 1 tbsp
   chicken breasts: 2
   salt: to taste
-  pepper: to taste
+  black pepper: to taste
   cilantro: 12 stems
   lime juice: to taste
 gluten-free: true

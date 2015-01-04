@@ -13,7 +13,7 @@ ingredients:
   balsamic vinegar: 1 tablespoon
   italian herbs: 2 teaspoons
   bay leaves: 1
-  ground pepper: to taste
+  black pepper: to taste
 gluten-free: true
 time: 5 - 6 hours 
 servings: 4
