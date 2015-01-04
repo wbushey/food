@@ -6,8 +6,8 @@ ingredients:
   onion: 1 small
   tomato soup: 1 can
   sharp cheddar: 8 oz shredded
-  mozzarella - 8 oz shredded
-  monterey jack - 8 oz shredded
+  mozzarella: 8 oz shredded
+  monterey jack: 8 oz shredded
   milk: 1/2 cup
   salt: to taste
   pepper: to taste
