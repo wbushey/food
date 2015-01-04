@@ -18,7 +18,7 @@ module Ingredients
           end
         end
         
-        ingredients_page.data['ingredient_groups'] = ingredient_groups
+        ingredients_page.data['ingredient_groups'] = Hash[ingredient_groups.sort]
       end
     end
   end
