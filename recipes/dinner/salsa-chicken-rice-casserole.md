@@ -7,8 +7,8 @@ ingredients:
   cream of chicken soup - gluten-free: 1 can
   cream of mushroom soup - gluten-free: 1 can
   salsa: 1.5 cups
-  monterey jack: 2 cups - shredded - optional
-  cheddar - 2 cups - shredded - optional
+  monterey jack: 2 cups shredded - optional
+  cheddar: 2 cups shredded - optional
 gluten-free: true 
 dairy-free: true
 time: 80 minutes
