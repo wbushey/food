@@ -2,7 +2,7 @@
 title: Salsa Chicken Rice Casserole 
 ingredients:
   white rice: 1.33 cups
-  chicken breast : 4
+  chicken breasts : 4
   onion: 1 small
   cream of chicken soup - gluten-free: 1 can
   cream of mushroom soup - gluten-free: 1 can
