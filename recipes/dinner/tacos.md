@@ -9,7 +9,8 @@ ingredients:
   flour tortillas: 4 - optional
   corn tortillas: 4 - optional
   taco shells: 4 - optional
-  shredded cheese: optional
+  cheese: shredded - optional
+  cheddar: shredded - optional
   salsa: optional
   lettuce: optional
   green pepper: optional
