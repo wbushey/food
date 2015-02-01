@@ -25,3 +25,4 @@ servings: 4
 2. Chop any vegetables.
 3. Follow instructions on taco seasoning packet.
 4. If using tortillas, microwave them between damp papertowls for 20 seconds.
+5. Put stuff into tortillas or shells.
