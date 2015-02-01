@@ -2,7 +2,7 @@
 title: Chicken Parmigiana 
 ingredients:
   chicken breasts: 4
-  egg: 1
+  eggs: 1
   bread crumbs:
   mozzarella cheese: 8 slices
   spaghetti sauce: 1 jar

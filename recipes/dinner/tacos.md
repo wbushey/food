@@ -5,7 +5,7 @@ ingredients:
   ground beef: 1 - 1.5 lbs - optional
   ground turkey: 1 - 1.5 lbs - optional
   ground chicken: 1 - 1.5 lbs - optional 
-  chicken breast: 1 - 1.5 lbs - optional
+  chicken breasts: 1 - 1.5 lbs - optional
   flour tortillas: 4 - optional
   corn tortillas: 4 - optional
   taco shells: 4 - optional
