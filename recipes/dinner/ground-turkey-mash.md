@@ -5,7 +5,7 @@ ingredients:
   onion: 1/2
   green pepper: 1
   tomato: 1
-  carrot: 2
+  carrots: 2
   celery: 2
   garlic: 2 cloves
   rice: 1 cup
