@@ -13,7 +13,7 @@ time: 1 hour
 servings: 6
 ---
 
-1. Brow ground beef, drain fat.
+1. Brown ground beef, drain fat.
 2. Chop onions and garlic.
 3. Saute onions and garlic.
 4. Pre-heat oven to 450F.
