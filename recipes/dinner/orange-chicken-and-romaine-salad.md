@@ -4,7 +4,7 @@ ingredients:
   chicken breasts: 4
   extra virgin olive oil: 1 cup
   oranges: 3
-  garlin: 2 cloves
+  garlic: 2 cloves
   romaine lettuce: 1 head
   honey: 2 tbsp
   dijon mustard: 2 tbsp
