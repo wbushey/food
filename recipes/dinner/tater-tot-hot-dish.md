@@ -13,6 +13,8 @@ time: 1 hour
 servings: 6
 ---
 
+[Recipe for Homemade Cream of Mushroom Soup](/recipes/soups/cream-of-mushroom-soup/)
+
 1. Brown ground beef, drain fat.
 2. Chop onions and garlic.
 3. Saute onions and garlic.
