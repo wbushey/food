@@ -10,10 +10,7 @@ description: It has recipies and stuff
 #baseurl: /path/to/blog 
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
-url: http://food.home
-
-# Continue compiling even if there are errors. Keep it true, unless troubleshooting.
-auto: true
+url: http://food.wbushey.com
 
 # Makes pretty permalinks. See Jekyll docs for alternatives.
 permalink: pretty
