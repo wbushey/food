@@ -10,7 +10,7 @@ layout: default
             <p><strong>Ingredients</strong></p>
             <ul>
               {% for ingredient in page.ingredients %} 
-              <li>{{ingredient[1]}} {{ingredient[0]}}</li>
+              <li>{{ingredient[1]}}: {{ingredient[0]}}</li>
               {% endfor %}
             </ul>
           {% endif %}

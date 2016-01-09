@@ -1,0 +1,29 @@
+---
+title: Danish Split Pea Soup with Dill
+ingredients:
+  olive oil: 2 Tablespoons 
+  onion: 2 medium yellow
+  celery stalks: 2
+  carrots: 2 medium
+  celery root: 1/4
+  vegetable stock: 6 cups
+  dried green split peas: 2 cups rinsed
+  thyme: 1 sprig
+  dill: 4 Tablespoons chopped, divided
+  Salt and pepper: dash
+  onions: 2 medium yellow
+gluten-free: true
+time: 75 minutes
+servings: 6
+---
+
+0. Prep: dice onion, celery, carrot, celery root.
+1. Heat the olive oil in a soup pot over medium high heat. Add the chopped onions and saute until golden, about 15 minutes.
+2. Add the next 6 ingredients, through thyme, and half of the dill. Bring to a boil. Reduce heat, cover, and simmer over medium low heat for 45 minutes to 1 hour, until peas are soft and soup is fragrant.
+3. Meanwhile, slice remaining onions and saute in a skillet over medium high heat until crispy. Remove from skillet and set aside for topping.
+4. Season soup with salt and pepper. Serve topped with crispy onions and fresh dill.
+
+Notes: I didn't use celery root and it was fine.
+
+
+[Source](http://www.rhubarbarians.com/danish-split-pea-soup-with-dill/)

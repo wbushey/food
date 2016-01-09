@@ -1,0 +1,21 @@
+---
+title: No-Bake Energy Bites
+ingredients:
+  dry oatmeal: 1 cup
+  coconut flakes: 2/3 cup toasted
+  peanut butter: 1/2 cup
+  ground flax seed: 1/2 cup 
+  chocolate chips or cacao nibs: 1/2 cup
+  honey or agave: 1/3 cup
+  chia seeds: 1 tablespoon
+  vanilla extract: 1 teaspoon
+gluten-free: true
+time: 10 minutes
+servings: 20-25
+---
+
+1. Stir all ingredients together in a medium bowl until thoroughly mixed. Can use old fashioned oats. Cover and let chill in the refrigerator for half an hour.
+2. Once chilled, roll into balls of whatever size you would like. (Mine were about 1" in diameter.) Store in an airtight container and keep refrigerated for up to 1 week.
+3. Makes about 20-25 balls.
+
+[Source](http://www.gimmesomeoven.com/no-bake-energy-bites/)
