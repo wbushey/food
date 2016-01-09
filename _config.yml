@@ -20,7 +20,7 @@ markdown: redcarpet
 
 timezone: America/Chicago 
 
-exclude: [vendor, jekyll.pid, jekyll.log, start_food.sh, stop_food.sh]
+exclude: [.gitignore, LICENSE, README.md, Gemfile, Gemfile.lock, publish.sh, vendor, jekyll.log]
 
 defaults:
   - scope:
