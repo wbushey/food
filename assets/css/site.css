@@ -1,0 +1,16 @@
+#content{
+  padding: 0 1em;
+}
+
+.recipe-link img.gluten-free {
+  width: 1.2em;
+}
+
+.recipe .meta div.gluten-free{
+  float: right;
+  text-align: center;
+  padding: 1em;
+}
+.recipe .meta div.gluten-free img.gluten-free {
+  width: 4em;
+}
