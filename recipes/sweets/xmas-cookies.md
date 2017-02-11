@@ -1,5 +1,5 @@
 ---
-title: Gluten Free Cut-Out Sugar Cookies
+title: Cut-Out Sugar Cookies
 ingredients:
   butter or shortening or coconut oil: 1/2 cup (1 stick)
   sugar: 3/4 cup

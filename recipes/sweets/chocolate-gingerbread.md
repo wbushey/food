@@ -1,5 +1,5 @@
 ---
-title: Gluten Free Chocolate Gingerbread
+title: Chocolate Gingerbread
 ingredients:
   sorghum flour: 1 cup
   almond meal: 3/4 cup

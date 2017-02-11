@@ -1,5 +1,5 @@
 ---
-title: Gluten Free Multigrain Bread
+title: Multigrain Bread
 ingredients:
   millet flour: 1 cup
   tapioca starch: 1 cup

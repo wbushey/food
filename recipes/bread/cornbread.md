@@ -1,5 +1,5 @@
 ---
-title: Gluten Free Cornbread
+title: Cornbread
 ingredients: 
   certified gluten-free cornmeal: 1 cup
   rice flour: 1/2 cup white or brown

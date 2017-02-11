@@ -1,5 +1,5 @@
 ---
-title: Gluten Free Banana Bread
+title: Banana Bread
 ingredients:
   rice flour: 1 1/4 cup
   potato starch: heaping 1/3 cup
