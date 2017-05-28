@@ -22,8 +22,8 @@ servings: 2
 ---
 
 1. Cook Rice
-2. Chop onion, garlic, green pepper, tomato. Slice carrots and celery.
-3. Saute onion, garlic, green pepper, carrot, celery, and tomato. Season with
+2. Chop/slice onion, garlic, and carrots. Saute these.
+3. Chop and add green pepper, tomato, and celery to the saute. Season with
    ginger, thyme, and soy sauce.
 4. Remove all to plate.
 5. Brown turkey. Season with cumin, oregano, and black pepper. Drain.

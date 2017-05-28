@@ -11,22 +11,18 @@ ingredients:
   cheddar: 2 cups shredded - optional
 gluten-free: true 
 dairy-free: true
-time: 80 minutes
+time: 70 minutes
 servings: 4
 ---
 
 1. Cook rice.
-2. Halve the chicken breasts.
-3. Chop onion.
+2. Chop onion.
+3. Saute chopped onion.
 4. Pre-heat oven to 350F.
-5. Place chicken breast halves in large saucepan, fill the pan with water,
-   bring to a boil, and cook for 10 minutes.
-6. While chicken is cooking, saute chopped onion.
-7. Remove chicken from water. Once chicken is cool enough to handle, cut meat
-   into bite-size pieces.
-8. In a medium bowl, combine cream of mushroom soup, cream of chicken soup,
-   onion, and sals. Optional, mix in cheese.
-9. Lightly grease 9x13 inch backing dish. Combine and mix rice, chicken, and 
+5. Cut chicken into bite-sized pieces. Lightly pepper chicken.
+6. In a medium bowl, combine cream of mushroom soup, cream of chicken soup,
+   onion, and salsa. Optional, mix in cheese.
+7. Lightly grease 9x13 inch backing dish. Combine and mix rice, chicken, and 
    salsa mix.
-10. Bake in preheated oven for about 30 minutes.
-11. Optional, mix in cheese when serving.
+8. Bake in preheated oven for about 30 minutes.
+9. Optional, mix in cheese when serving.
