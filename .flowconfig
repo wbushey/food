@@ -1,0 +1,12 @@
+[ignore]
+<PROJECT_ROOT>/jekyll/.*
+<PROJECT_ROOT>/vendor/.*
+[include]
+
+[libs]
+
+[lints]
+
+[options]
+
+[strict]

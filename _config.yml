@@ -17,7 +17,12 @@ permalink: pretty
 
 timezone: America/Chicago 
 
-exclude: [.gitignore, LICENSE, README.md, Gemfile, Gemfile.lock, publish.sh, vendor, jekyll.log]
+source: jekyll
+exclude: [.gitignore, LICENSE, README.md, Gemfile, Gemfile.lock, flow_typed, node_modules, vendor, jekyll.log]
+
+collections:
+  recipes:
+    output: true
 
 defaults:
   - scope:
@@ -25,6 +30,8 @@ defaults:
     values:
       layout: "default"
   - scope:
-      path: "recipes"
+      path: ""
+      type: recipes
     values:
       layout: "recipe"
+      permalink: /api/:collection/:path.json

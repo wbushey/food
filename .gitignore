@@ -1,3 +1,6 @@
+jekyll/assets/bundle.js
+node_modules
+vendor
 _build
 _site
 jekyll.log
