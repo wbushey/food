@@ -8,5 +8,8 @@
 [lints]
 
 [options]
+module.name_mapper='^Browser' -> '<PROJECT_ROOT>/js/browser'
+module.name_mapper='^Build' -> '<PROJECT_ROOT>/js/build'
+module.name_mapper='^Mock' -> '<PROJECT_ROOT>/js/__spec__/__mock__'
 
 [strict]

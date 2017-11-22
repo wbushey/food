@@ -21,7 +21,18 @@
       {
         "components": []
       }
-    ]
+    ],
+    "import/no-extraneous-dependencies": [
+      "error",
+      {
+        "devDependencies": [
+          "**/*.spec.jsx",
+          "**/*.spec.js",
+          "webpack.config.js"
+        ]
+      }
+    ],
+    "no-underscore-dangle": ["error", {"allowAfterThis": true}]
   },
   "env": {
     "browser": true,
@@ -29,5 +40,10 @@
     "jest": true,
     "jest/globals": true,
     "node": true
+  },
+  "settings": {
+    "import/resolver": {
+      "webpack": {}
+    }
   }
 }

@@ -4,12 +4,13 @@
   "description": "A recipe site.",
   "scripts": {
     "build": "webpack",
-    "watch": "webpack -w",
+    "build:inspect": "node --inspect-brk node_modules/webpack/bin/webpack.js",
+    "build:watch": "webpack -w",
     "flow": "flow",
-    "lint": "eslint 'webpack/**/*.{js,jsx}' --quiet",
+    "lint": "eslint 'js/**/*.{js,jsx}' --quiet",
+    "serve": "webpack-dev-server",
     "test": "jest",
-    "test:inspect":
-      "node --inspect-brk node_modules/jest/bin/jest.js --runInBand",
+    "test:inspect": "node --inspect-brk node_modules/jest/bin/jest.js --runInBand",
     "test:watch": "jest --watch"
   },
   "repository": {
@@ -36,14 +37,17 @@
     "babel-eslint": "^8.0.2",
     "babel-jest": "^21.2.0",
     "babel-loader": "^7.1.2",
+    "babel-plugin-module-resolver": "^3.0.0",
     "babel-plugin-transform-class-properties": "^6.24.1",
     "babel-preset-env": "^1.6.1",
     "babel-preset-react": "^6.24.1",
+    "copy-webpack-plugin": "^4.2.1",
     "enzyme": "^3.2.0",
     "enzyme-adapter-react-16": "^1.1.0",
     "eslint": "^4.11.0",
     "eslint-config-airbnb": "^16.1.0",
     "eslint-config-prettier": "^2.8.0",
+    "eslint-import-resolver-webpack": "^0.8.3",
     "eslint-plugin-flowtype": "^2.39.1",
     "eslint-plugin-import": "^2.8.0",
     "eslint-plugin-jest": "^21.3.2",
@@ -53,15 +57,18 @@
     "flow-bin": "^0.59.0",
     "flow-typed": "^2.2.3",
     "jest": "^21.2.1",
+    "js-yaml": "^3.10.0",
+    "markdown": "^0.5.0",
     "prettier": "^1.8.2",
     "react-addons-update": "^15.6.2",
     "sinon": "^4.1.2",
-    "webpack": "^3.8.1"
+    "webpack": "^3.8.1",
+    "webpack-dev-server": "^2.9.4"
   },
   "jest": {
     "setupFiles": [
-      "<rootDir>/webpack/shim.js",
-      "<rootDir>/webpack/setupTests.js"
+      "<rootDir>/js/shim.js",
+      "<rootDir>/js/setupTests.js"
     ]
   }
 }

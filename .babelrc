@@ -1,6 +1,13 @@
 {
   "plugins": [
-    "transform-class-properties"
+    "transform-class-properties",
+    ["module-resolver", {
+      "alias": {
+        "Browser": "./js/browser",
+        "Build": "./js/build",
+        "Mock": "./js/__spec__/__mock__"
+      }
+    }]
   ],
   "presets": [
     "react",

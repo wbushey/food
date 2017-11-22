@@ -1,0 +1,32 @@
+{
+  "extends": ["plugin:jest/recommended", "prettier"],
+  "plugins": ["jest", "prettier"],
+  "parserOptions": {
+    "ecmaVersion": 5
+  },
+  "rules": {
+    "import/no-extraneous-dependencies": [
+      "error",
+      {
+        "devDependencies": ["**/*.spec.jsx", "**/*.spec.js", "**/*.js"]
+      }
+    ],
+    "no-param-reassign": [
+      "error",
+      {
+        "props": true,
+        "ignorePropertyModificationsFor": ["compilation"]
+      }
+    ]
+  },
+  "env": {
+    "jest": true,
+    "jest/globals": true,
+    "node": true
+  },
+  "settings": {
+    "import/resolver": {
+      "webpack": {}
+    }
+  }
+}

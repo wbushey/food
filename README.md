@@ -6,19 +6,14 @@ A home recipe site built with Jekyll.
 Repo Organization
 ================
 
-Root contains configuration files for bundle and Jekyll, documentation, and
-helpful scripts.
+Root contains configuration files for webpack, documentation, and helpful scripts.
 
-Most of the typical Jekyll-related files, including content, layouts, and plugins,
-are located in the `jekyll` folder. Jekyll's build process outputs to the `_site`
-folder as usual.
+`content` contains markdown files that become content on this site.
+
+`js` contains all of the repo's client-side and build JavaScript.
 
 Installing
 ==========
-
-You'll need a recent version of Ruby installed. If you use rbenv, you can run
-`rbenv install.` You'll also need bundler installed, which you can install via
-`gem install bundler`.
 
 You'll need a recent version of npm installed. If you use nvm, you can run
 `nvm install`.
@@ -26,7 +21,6 @@ You'll need a recent version of npm installed. If you use nvm, you can run
 Then, to install all dependencies:
 
 ```
-bundle install
 npm install
 ```
 
@@ -35,20 +29,13 @@ Building and Serving
 
 ```
 npm run build
-bundle exec jekyll
 ```
 
 To rebuild while adding content or developing:
 
 ```
-npm run watch
-bundle exec jekyll serve -w
+npm run serve 
 ```
-
-Publishing
-==========
-
-`./publish.sh`
 
 Testing
 =======
